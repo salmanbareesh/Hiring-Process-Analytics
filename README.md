@@ -7,7 +7,7 @@ As a data analyst, you'll be given a dataset containing records of previous hire
 
 Here's what you'll be doing:
 
-**Handling Missing Data**: Check if there are any missing values in the dataset. If there are, decide on the best strategy to handle them.
+**Handling Missing Data**: Check if there are any missing values in the dataset. If there are, decide on the best strategy to handle them. 
 **Clubbing Columns**: If there are columns with multiple categories that can be combined, do so to simplify your analysis.
 **Outlier Detection**: Check for outliers in the dataset that may skew your analysis.
 **Removing Outliers**: Decide on the best strategy to handle outliers. This could be removing them, replacing them, or leaving them as is, depending on the situation.
